@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlyasKhan11
 - 👀 I’m interested in Web Dev,App Dev,BlockChain Dev and also AI/ML
-- 🌱 I’m currently learning Node.js and Express
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me? you can reach me from instagram @ilyasdevs ...
 
