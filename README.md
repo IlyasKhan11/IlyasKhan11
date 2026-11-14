@@ -1,63 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ilyas</h1>
-<h3 align="center">Machine Learning Engineer | Computer Science Student | Software Developer</h3>
+![banner](./banner.png)
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ilyaskhan11" alt="ilyaskhan11" />
-  </a>
-</p>
+### ~ $ whoami
 
-- 🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision  
-- 📊 I build AI-powered systems and data-driven applications  
-- 📝 I regularly write articles on [Medium](https://medium.com/@ilyas.dev2021)  
-- 📫 Reach me at **ilyas.dev2021@gmail.com**
+AI/ML engineer in Karachi. I build and deploy AI systems end to end: from picking the model and designing the pipeline to shipping it as a FastAPI service on real client data.
 
----
+1+ year in industry. Computer Science student at Dawood University. Open to remote work.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad ilyas khan" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+### ~ $ ls projects/
 
----
+```text
+free-kick-analyzer/    video in, one annotated clip per kick out: keypoints, ball box, trajectory
+alphastream-omni/      earnings-call audio to BUY / HOLD / SELL, via Whisper + FinBERT + Gemma
+exoplanet-predictor/   Kepler data classifier, 92.79% accuracy (NASA Space Apps 2025)
+id-card-ocr/           OpenCV + Tesseract, structured text over a FastAPI endpoint
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+[Alpha-stream-Omni](https://github.com/IlyasKhan11/Alpha-stream-Omni) · [Nasa-Space-App-Challenge](https://github.com/IlyasKhan11/Nasa-Space-App-Challenge) · [Nasa-Space-App-Frontend](https://github.com/IlyasKhan11/Nasa-Space-App-Frontend)
 
-<!-- Core ML -->
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
+The Tezeract projects were built for clients, so their code stays private.
 
-<!-- Computer Vision -->
-<a href="https://opencv.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/></a>
+### ~ $ cat stack.py
 
-<!-- DL / AI -->
-<a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+```python
+stack = {
+    "languages":  ["python", "c/c++", "javascript", "sql"],
+    "llm_genai":  ["langchain", "langgraph", "rag", "whisper", "hugging face"],
+    "ml":         ["pytorch", "scikit-learn", "xgboost", "pandas", "numpy"],
+    "vision":     ["opencv", "yolov8", "mediapipe", "tesseract"],
+    "mlops":      ["mlflow", "dvc", "docker", "aws", "linux"],
+    "backend":    ["fastapi", "postgresql", "mongodb", "sqlite"],
+}
+```
 
-<!-- Dev -->
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+### ~ $ cat values.md
 
-<!-- Programming -->
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+```text
+First principles   Reason from the ground up, like a proof.
+Think in moves     See the next ten before making one.
+Rigor over hype    Measure it before you claim it.
+Build to last      Ship systems that hold up in production.
+```
 
-<!-- Web -->
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+### ~ $ contact
 
-</p>
+[ilyaskhan11.github.io](https://ilyaskhan11.github.io) · [linkedin](https://www.linkedin.com/in/muhammad-ilyas-khan-88920122a/) · [medium](https://medium.com/@ilyas.dev2021) · ilyas.dev2021@gmail.com
 
----
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyaskhan11&show_icons=true&theme=dark&layout=compact" />
-</p>
+```text
+~ $ ▌
+```
